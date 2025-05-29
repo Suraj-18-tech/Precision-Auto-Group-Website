@@ -1,4 +1,4 @@
-# Website Revamp for Autotech Company 🌐<br>
+# Website Revamp for GENEXT Precision Autotech Company 🌐<br>
 A modern, full-stack website developed for GENEXT Precision Autotech Pvt. Ltd., designed to enhance brand presence, showcase products and services, and improve customer engagement. Built with a responsive and professional layout to align with the company's vision and industry standards.<br>
 
 Features ✨<br>
