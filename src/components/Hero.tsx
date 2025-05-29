@@ -9,7 +9,7 @@ const Hero = () => {
   const slides = [
     {
       id: 1,
-      title: "Precision Engineering",
+      title: "Precision Auto",
       subtitle: "For Automotive Excellence",
       description:
         "Leading manufacturer of fuel tanks and sheet metal components, delivering quality and innovation to the automotive industry.",
