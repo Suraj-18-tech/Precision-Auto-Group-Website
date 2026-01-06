@@ -23,5 +23,6 @@ This project demonstrates the application of Full Stack Web Development, combini
 
 4. Start the development server:
    - npm run dev
-   - 
+     
 5. Open your browser and access the application on the configured local port.
+
