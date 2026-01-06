@@ -10,3 +10,18 @@ Features ✨<br>
 ✅ MongoDB Integration for secure and scalable data storage.<br>
 
 This project demonstrates the application of Full Stack Web Development, combining frontend design with backend logic and database connectivity to build a robust business website. 🚀
+
+# How to Run the Project ▶️
+
+1. Clone the repository
+   - git clone  https://github.com/Suraj-18-tech/Precision-Auto-Group-Website.git
+
+2. Navigate to the project directory
+
+3. Install dependencies:
+   - npm i
+
+4. Start the development server:
+   - npm run dev
+   - 
+5. Open your browser and access the application on the configured local port.
